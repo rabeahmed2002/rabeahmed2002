@@ -1,5 +1,9 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 About Me:<img align="right" width="250" src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif">
+
+
+I'm a passionate Computer Science student at the University of Karachi, specializing in web development, mobile app development, and blockchain research. With strong problem-solving skills and a thirst for knowledge, I'm eager to contribute to innovative projects. I'm seeking collaborations with like-minded individuals and organizations to explore new technologies and make a difference. Let's connect and create something amazing together!🤝
+
+
 
 
 ## 🌐 Socials:
