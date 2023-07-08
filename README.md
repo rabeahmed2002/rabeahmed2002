@@ -1,6 +1,6 @@
 ![logo](https://i.postimg.cc/MTpgPNFX/github-header-image-5.png)
 
-# 💫 About Me:<img align="right" width="250" src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif">
+# 💫 About Me:<img align="right" width="280" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
 I'm a passionate Computer Science student at the University of Karachi, specializing in web development, mobile app development, and blockchain research. With strong problem-solving skills and a thirst for knowledge, I'm eager to contribute to innovative projects. I'm seeking collaborations with like-minded individuals and organizations to explore new technologies and make a difference. Let's connect and create something amazing together!🤝
