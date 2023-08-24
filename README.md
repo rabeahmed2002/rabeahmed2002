@@ -1,6 +1,6 @@
 ![logo](https://i.postimg.cc/MTpgPNFX/github-header-image-5.png)
 
-# 💫 About Me:<img align="right" width="280" src="https://camo.githubusercontent.com/39ad4a2d07dfd00cb03bdc6db372e8688534b2b735ed3993f791a45bf482087b/68747470733a2f2f696d672e6574696d672e636f6d2f7468756d622f6d7369642d38343134363038332c77696474682d313031352c6865696768742d3736312c696d6773697a652d3633383035332c726573697a656d6f64652d382c7175616c6974792d3130302f7072696d652f746563686e6f6c6f67792d616e642d73746172747570732f626f6f74696e672d75702d646576656c6f7065722d65636f6e6f6d792d686f772d746563682d73746172747570732d6172652d68656c70696e672d636f646572732d6275696c642d616e642d746573742d736f6674776172652d6661737465722e6a7067">
+# 💫 About Me:<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 
 
 I'm a passionate Computer Science student at the University of Karachi, specializing in web development, mobile app development, and blockchain research. With strong problem-solving skills and a thirst for knowledge, I'm eager to contribute to innovative projects. I'm seeking collaborations with like-minded individuals and organizations to explore new technologies and make a difference. Let's connect and create something amazing together!🤝
