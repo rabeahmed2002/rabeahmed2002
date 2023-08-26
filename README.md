@@ -1,6 +1,6 @@
 ![logo](https://i.postimg.cc/MTpgPNFX/github-header-image-5.png)
 
-# 💫 About Me:<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
+# 💫 About Me:<img align="right" width="280" src="https://techuniverse.com.au/images/working_man.gif">
 
 
 I'm a passionate Computer Science student at the University of Karachi, specializing in web development, mobile app development, and blockchain research. With strong problem-solving skills and a thirst for knowledge, I'm eager to contribute to innovative projects. I'm seeking collaborations with like-minded individuals and organizations to explore new technologies and make a difference. Let's connect and create something amazing together!🤝
