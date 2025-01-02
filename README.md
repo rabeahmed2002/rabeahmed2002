@@ -3,7 +3,7 @@
 # 💫 About Me:<img align="right" width="280" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
 
-I'm a passionate Computer Science student at the University of Karachi, specializing in web development, mobile app development, and blockchain research. With strong problem-solving skills and a thirst for knowledge, I'm eager to contribute to innovative projects. I'm seeking collaborations with like-minded individuals and organizations to explore new technologies and make a difference. Let's connect and create something amazing together!🤝
+Highly motivated Fullstack Software Engineer with a Bachelor of Science in Computer Science from the University of Karachi. Expertise spans frontend and backend web development, mobile app development, DevOps, and cloud computing. Proven ability to solve complex problems creatively and a strong desire for continuous learning. Seeking challenging opportunities to contribute to innovative projects within a collaborative and dynamic environment. Eager to leverage my skills and knowledge to develop impactful solutions and contribute to the success of forward-thinking organizations.🤝
 
 
 
