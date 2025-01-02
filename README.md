@@ -1,6 +1,6 @@
 ![logo](https://i.postimg.cc/9FV9R7MM/Capture.png)
 
-# 💫 About Me:<img align="right" width="280" 
+# 💫 About Me:
 
 
 Highly motivated Fullstack Software Engineer with a Bachelor of Science in Computer Science from the University of Karachi. Expertise spans frontend and backend web development, mobile app development, DevOps, and cloud computing. Proven ability to solve complex problems creatively and a strong desire for continuous learning. Seeking challenging opportunities to contribute to innovative projects within a collaborative and dynamic environment. Eager to leverage my skills and knowledge to develop impactful solutions and contribute to the success of forward-thinking organizations.🤝
