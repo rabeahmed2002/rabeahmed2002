@@ -9,9 +9,9 @@ Highly motivated Fullstack Software Engineer with a Bachelor of Science in Compu
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
-<a href="https://twitter.com/rabeahmed20002" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rabeahmed20002" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rabeahmed/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabe2002" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mrabe2024" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mrabe2024" height="30" width="40" /></a>
+<a href="https://twitter.com/rabeahmed20002" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rabeahmed20002" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rabeahmed/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabe2002" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mrabe2024" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mrabe2024" height="30" width="40" /></a>
 </p>
 
 <h1 align="left">Languages and Tools:</h1>
