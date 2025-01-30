@@ -5,8 +5,6 @@
 
 Highly motivated Fullstack Software Engineer with a Bachelor of Science in Computer Science from the University of Karachi. Expertise spans frontend and backend web development, mobile app development, DevOps, and cloud computing. Proven ability to solve complex problems creatively and a strong desire for continuous learning. Seeking challenging opportunities to contribute to innovative projects within a collaborative and dynamic environment. Eager to leverage my skills and knowledge to develop impactful solutions and contribute to the success of forward-thinking organizations.🤝
 
-<img src="https://raw.githubusercontent.com/rabeahmed2002/rabeahmed2002/output/snake.svg" alt="Snake animation" />
-
 <h1 align="left">Connect with me:</h1>
 <p align="left">
 <a href="https://twitter.com/rabeahmed20002" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rabeahmed20002" height="30" width="40" /></a>
