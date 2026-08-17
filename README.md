@@ -1,6 +1,10 @@
 # 💫 About Me:
-I'm a DevOps Engineer
 
+DevOps Engineer with 1+ year of experience delivering production-grade infrastructure for fintech and banking
+platforms including Raast, RTP, and QR payment APIs. Hands-on across the full DevOps stack — Kubernetes, CI/CD, ELK,
+Prometheus/Grafana, Kong API Gateway, and on-prem private cloud — with a track record of cutting deployment times,
+improving observability, and hardening API security across high-stakes financial systems. Recently expanded into LLM-powered
+pipeline automation, building AI-driven MR review agents to enforce code quality gates.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rabeahmed/) 
